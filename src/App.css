@@ -1,0 +1,19 @@
+.App {
+}
+
+.videoTag {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 120%;
+  min-height: 1%;
+  filter: blur(1px);
+  z-index: -1;
+}
+
+.perso{
+font-family: Georgia, 'Times New Roman', Times, serif;  color: rgb(255, 255, 255);
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
